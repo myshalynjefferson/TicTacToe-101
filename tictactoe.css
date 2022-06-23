@@ -14,3 +14,13 @@ td {
 table {
   margin: auto auto;
 }
+
+button {
+  background-color: pink;
+  padding: 10px;
+  border: none;
+}
+
+body {
+  background-color: lavender;
+}
